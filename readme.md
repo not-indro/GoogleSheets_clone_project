@@ -70,11 +70,33 @@ This web application mimics the core functionalities of Google Sheets, focusing 
 ```
 google-sheets-clone/
 │
-├── index.html          # Main HTML file
-├── styles.css          # CSS for styling the UI
-├── script.js           # JavaScript for core functionality
-├── README.md           # Project documentation
-└── assets/             # Folder for additional assets (e.g., icons, fonts)
+|
+|
+│--CSS/
+|   ├── components.css
+│   ├── excel.css
+│   ├── header.css
+│   ├── layout.css
+│   ├── misc.css
+│   ├── reset.css
+│   ├── responsive.css
+│   └── theme.css
+│
+├── components/
+│   ├── baseComponent.js
+│   ├── cell.js
+│   ├── excel.js
+│   ├── graph.js
+│   └── modal.js
+│
+├── utils/
+│   ├── DOM.js
+│   └── parser.js
+│
+├── index.html
+├── main.js
+├── LICENSE
+└── README.md
 ```
 
 ---
