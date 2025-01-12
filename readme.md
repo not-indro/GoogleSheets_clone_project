@@ -146,8 +146,3 @@ google-sheets-clone/
 3. **Map**:
    - Tracks cell dependencies to ensure formulas update dynamically when related cells change.
    - Example: `dependencies.set("A1", ["B1", "C1"])`.
-
----
-
-## Conclusion
-This project demonstrates the power of vanilla JavaScript, HTML, and CSS in building a functional and intuitive web application. By avoiding frameworks like React, the application remains lightweight, performant, and easy to maintain. The use of appropriate data structures ensures efficient handling of cell data, formulas, and dependencies, closely mimicking the behavior of Google Sheets.
