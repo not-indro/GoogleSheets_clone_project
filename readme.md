@@ -1,7 +1,6 @@
 # Web Application Mimicking Google Sheets
 
 ## Features
-This web application mimics the core functionalities of Google Sheets, focusing on mathematical and data quality functions, data entry, and key UI interactions. Below are the implemented features:
 
 ### 1. Spreadsheet Interface
 - **Mimic Google Sheets UI**: The application closely resembles Google Sheets in terms of visual design, layout, toolbar, formula bar, and cell structure.
