@@ -52,11 +52,11 @@
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/google-sheets-clone.git
+   git clone https://github.com/not-indro/GoogleSheets_clone_project.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd google-sheets-clone
+   cd GoogleSheets_clone_project
    ```
 3. Open `index.html` in your browser:
    ```bash
